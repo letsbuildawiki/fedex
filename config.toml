@@ -1,0 +1,7 @@
+[project]
+pretty_name = "FedEx"
+repo_name = "fedex"
+
+[[project.folders]]
+label = "Ship Manager"
+directory = "ship-manager"
